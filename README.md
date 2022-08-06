@@ -8,3 +8,5 @@
 |  3  | Compare The Triplets | [CompareTheTriplets.kt](https://github.com/kursatkumsuz/HackerRank-Kotlin-Solutions/blob/master/src/main/kotlin/algorithms/CompareTheTriplets.kt) 
 
 |  4  | A Very Big Sum | [AVeryBigSum.kt](https://github.com/kursatkumsuz/HackerRank-Kotlin-Solutions/blob/master/src/main/kotlin/algorithms/AVeryBigSum.kt)
+
+|  5  | Camel Case | [CamelCase.kt](https://github.com/kursatkumsuz/HackerRank-Kotlin-Solutions/blob/master/src/main/kotlin/strings/CamelCase.kt)
